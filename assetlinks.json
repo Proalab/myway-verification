@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.proalab.mywayapp",
+    "sha256_cert_fingerprints":
+    ["CA:42:A5:E7:71:33:D9:60:4A:B3:4E:34:4C:E1:29:20:4F:F6:78:DB:69:FC:43:27:45:36:9C:9E:02:53:48:52"]
+  }
+}]
