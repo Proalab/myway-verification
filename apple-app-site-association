@@ -5,7 +5,8 @@
             {
                 "appID": "XNV58HX9BH.com.proalab.routeoptimizer",
                 "paths": [
-                    "/s/*"
+                    "/s/*",
+                    "/i/*"
                 ]
             }
         ]
