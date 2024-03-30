@@ -4,6 +4,7 @@
     "namespace": "android_app",
     "package_name": "com.proalab.mywayapp",
     "sha256_cert_fingerprints":
-    ["CA:AD:80:B0:78:81:0E:5D:F3:F2:57:C7:57:98:9E:1A:CB:3B:A2:B8:F9:08:5C:66:08:B6:E9:CB:CC:7B:C1:82"]
+    ["CA:AD:80:B0:78:81:0E:5D:F3:F2:57:C7:57:98:9E:1A:CB:3B:A2:B8:F9:08:5C:66:08:B6:E9:CB:CC:7B:C1:82",
+        "7D:09:51:27:C9:18:89:A9:91:AF:FD:B7:8E:A0:3A:FD:CB:B1:49:B8:E4:BD:05:84:8C:0D:C0:A0:CC:ED:E7:42"]
   }
 }]
