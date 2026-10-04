@@ -10,6 +10,15 @@
                     "/r-stage/*",
                     "/i/*"
                 ]
+            },
+            {
+                "appID": "XNV58HX9BH.com.proalab.routeoptimizer.dev",
+                "paths": [
+                    "/s/*",
+                    "/r/*",
+                    "/r-stage/*",
+                    "/i/*"
+                ]
             }
         ]
     }
